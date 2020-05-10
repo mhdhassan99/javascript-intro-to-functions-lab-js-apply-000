@@ -17,7 +17,7 @@
 
 function shout(string) {
   return string.toUpperCase();
-}
+}javascript:void(0);
 
 function whisper(string)javascript:void(0); {
   string.toUpperCase();
