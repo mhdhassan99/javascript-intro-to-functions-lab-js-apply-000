@@ -19,7 +19,7 @@ function shout(string) {
   return string.toUpperCase();
 }
 
-function whisper(string) {
+function whisper(string)javascript:void(0); {
   string.toUpperCase();
 }
 
