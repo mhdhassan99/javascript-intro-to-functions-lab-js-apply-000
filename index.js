@@ -17,10 +17,10 @@
 
 function shout(string) {
   return string.toUpperCase();
-}javascript:void(0);
+}
 
-function whisper(string)javascript:void(0); {
-  string.toUpperCase();
+function whisper(string) {
+  return string.toLowerCase();
 }
 
 function logShout(string) {
@@ -30,4 +30,10 @@ function logShout(string) {
 
 function logWhisper(string) {
   var small = string.toLowerCase();
+  console.log(small);
 }
+
+function sayHiToGrandma(string) {
+  
+}
+
